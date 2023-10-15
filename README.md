@@ -41,6 +41,3 @@ pip install -r requirements.txt
 dacon.ipynb
 ```
 
-
-
-위 예시를 참고하여 프로젝트에 맞게 README 파일을 작성하십시오. README 파일은 프로젝트에 대한 정보를 제공하고 사용자 및 기여자들에게 필요한 지침을 제공하는 중요한 문서입니다.
